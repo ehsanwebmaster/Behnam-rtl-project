@@ -36,6 +36,7 @@
 		$('.carousel-testimony').owlCarousel({
 			center: true,
 			loop: true,
+			rtl: true,
 			autoplay: true,
 			autoplaySpeed:2000,
 			items:1,
